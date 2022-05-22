@@ -1,0 +1,2 @@
+This is a very basic recipe site that hosts three of my favorite recipes.
+I developed this website to showcase basic web development skills I have learned so far through The Odin Project: using git, using the command terminal, managing filesystems, creating basic HTML webpages, linking between multiple pages, inserting images into a webpage, and using ordered and unordered lists.
